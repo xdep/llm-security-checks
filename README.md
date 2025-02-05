@@ -4,8 +4,9 @@
 
 The LLM Security Tester is a Python script designed to evaluate the security and robustness of Large Language Models (LLMs) running on the Ollama platform. This tool performs a series of security tests to identify potential vulnerabilities in AI model responses.
 
-![alt text](https://github.com/xdep/llm-security-checks/example1.PNG)
-![alt text](https://github.com/xdep/llm-security-checks/example2.PNG)
+![alt text](https://github.com/xdep/llm-security-checks/blob/main/example1.PNG)
+![alt text](https://github.com/xdep/llm-security-checks/blob/main/example2.PNG)
+
 
 ## Features
 
