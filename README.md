@@ -1,15 +1,15 @@
-# Ollama Security Tester
+# LLM Security Tester
 
 ## Overview
 
-The Ollama Security Tester is a comprehensive Python script designed to evaluate the security and robustness of Large Language Models (LLMs) running on the Ollama platform. This tool performs a series of sophisticated security tests to identify potential vulnerabilities in AI model responses.
+The LLM Security Tester is a Python script designed to evaluate the security and robustness of Large Language Models (LLMs) running on the Ollama platform. This tool performs a series of security tests to identify potential vulnerabilities in AI model responses.
 
-## Key Features
+## Features
 
-- **Comprehensive Security Testing**: Covers multiple security test categories
+- **Security Testing**: Covers multiple security test categories
 - **Detailed Reporting**: Generates detailed logs and summarized test results
-- **Flexible Configuration**: Supports testing multiple models and test categories
-- **Rich Visualization**: Uses Rich library for enhanced console output
+- **Adjustable Configuration**: Supports testing multiple models and test categories
+- **Visualization**: Uses Rich library for enhanced console output
 
 ## Test Categories
 
